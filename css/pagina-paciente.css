@@ -40,34 +40,28 @@ margin-left: 10%;
 /*conteudo*/
 
 .conteiner{
-    /* background: pink ; */
-    padding: 0px 420px 0px 86px;
-    /* display: flex; */
+    margin-left: 10px;
     align-items: center;
-    /* justify-content: center; */
     height: 82% ;
-    /* border: black solid 2px; */
-    /* width: 100%; */
+    
 }
 
 .conteudo-global{
-    /* background-color:#00995d; */
     display: flex;
-    /* border: 2px red solid; */
     width: 100%;
 }
 
 .conteudo1{
-    /* background-color: aquamarine; */
     width: 40%;
 }
 
 .conteudo2{
-    /* background-color: blue; */
     width: 60%;
 }
 .menu{
     text-align: right;
+    margin-top: 5px;
+    margin-right: 5px;
 }
     
 
@@ -94,7 +88,7 @@ button:hover{
     width: 10%;
 }
 
-#bloco-0{
+#bloco{
     border: 1px solid #555;
     text-align: center;
     width: 700px;
@@ -108,7 +102,7 @@ button:hover{
     
     
 
-#bloco{
+#faixa-verde{
     background-color: #00c282;  /*faixa verde*/
     width: 1225px;
     height: 30px;
